@@ -99,4 +99,4 @@ void Division(double *First_Num, double *Second_Num)
     printf("\n%.2lf / %.2lf = %.2lf\n", *First_Num, *Second_Num, *First_Num / *Second_Num);
 }
 
-//********************************   Project Ends Here    ******************************
+//********************************  Ends  ******************************
